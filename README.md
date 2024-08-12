@@ -1,4 +1,4 @@
-# Chatbot-using-Amazon-Lex
+# Chatbot using Amazon Lex
 Created a custom chatbot for imaginary bank using Amazon Lex.
 
 ## Overview
